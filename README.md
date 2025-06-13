@@ -32,6 +32,10 @@ venv\Scripts\activate
 pip install django
 pip install djangorestframework
 ```
+OR
+```bash
+pip install -r requirements.txt
+```
 
 ### 3. Run Migrations
 ```bash

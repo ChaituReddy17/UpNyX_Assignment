@@ -29,7 +29,8 @@ venv\Scripts\activate
 
 ### 2. Install Required Dependencies
 ```bash
-pip install -r requirements.txt
+pip install django
+pip install djangorestframework
 ```
 
 ### 3. Run Migrations
